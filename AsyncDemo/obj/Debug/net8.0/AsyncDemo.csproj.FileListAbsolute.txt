@@ -1,0 +1,14 @@
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.AssemblyInfoInputs.cache
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.AssemblyInfo.cs
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.exe
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.deps.json
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.runtimeconfig.json
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.dll
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.pdb
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.dll
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\refint\AsyncDemo.dll
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.pdb
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.genruntimeconfig.cache
+C:\Users\Jagdamb\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net8.0\ref\AsyncDemo.dll
